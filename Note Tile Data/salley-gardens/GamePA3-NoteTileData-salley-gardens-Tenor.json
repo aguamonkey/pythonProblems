@@ -1,0 +1,718 @@
+{
+    "notes": [
+        {
+            "relativePitch": 12,
+            "length": 1.0,
+            "lyrics": "It",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 14,
+            "length": 1.0,
+            "lyrics": "was",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 16,
+            "length": 2.0,
+            "lyrics": "down",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 14,
+            "length": 1.0,
+            "lyrics": "by",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 12,
+            "length": 1.0,
+            "lyrics": "the",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 14,
+            "length": 2.0,
+            "lyrics": "Sa-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 16,
+            "length": 1.0,
+            "lyrics": "lley",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 19,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 21,
+            "length": 4.0,
+            "lyrics": "Gar-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 19,
+            "length": 1.0,
+            "lyrics": "dens,",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 19,
+            "length": 2.0,
+            "lyrics": "my",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 21,
+            "length": 2.0,
+            "lyrics": "love",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 19,
+            "length": 1.0,
+            "lyrics": "and",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 16,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 14,
+            "length": 3.0,
+            "lyrics": "I",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 12,
+            "length": 1.0,
+            "lyrics": "did",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 12,
+            "length": 4.0,
+            "lyrics": "meet;",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 2.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 12,
+            "length": 1.0,
+            "lyrics": "She",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 14,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 16,
+            "length": 2.0,
+            "lyrics": "crossed",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 14,
+            "length": 1.0,
+            "lyrics": "the",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 12,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 14,
+            "length": 2.0,
+            "lyrics": "Sa-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 16,
+            "length": 1.0,
+            "lyrics": "lley",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 19,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 21,
+            "length": 4.0,
+            "lyrics": "Gar-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 19,
+            "length": 1.0,
+            "lyrics": "dens",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 19,
+            "length": 2.0,
+            "lyrics": "with",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 21,
+            "length": 2.0,
+            "lyrics": "lit-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 19,
+            "length": 1.0,
+            "lyrics": "tle",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 16,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 14,
+            "length": 3.0,
+            "lyrics": "snow-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 12,
+            "length": 1.0,
+            "lyrics": "white",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 12,
+            "length": 4.0,
+            "lyrics": "feet.",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 2.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 21,
+            "length": 1.0,
+            "lyrics": "She",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 23,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 24,
+            "length": 3.0,
+            "lyrics": "bid",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 23,
+            "length": 1.0,
+            "lyrics": "me",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 21,
+            "length": 2.0,
+            "lyrics": "take",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 24,
+            "length": 2.0,
+            "lyrics": "love",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 23,
+            "length": 3.0,
+            "lyrics": "ea-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 21,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 19,
+            "length": 1.0,
+            "lyrics": "sy,",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 19,
+            "length": 1.0,
+            "lyrics": "as",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 19,
+            "length": 1.0,
+            "lyrics": "the",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 21,
+            "length": 2.0,
+            "lyrics": "leaves",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 19,
+            "length": 2.0,
+            "lyrics": "grow",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 19,
+            "length": 1.0,
+            "lyrics": "on",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 21,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 24,
+            "length": 1.0,
+            "lyrics": "the",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 26,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 24,
+            "length": 4.0,
+            "lyrics": "trees",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 2.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 12,
+            "length": 1.0,
+            "lyrics": "But",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 14,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 16,
+            "length": 2.0,
+            "lyrics": "I,",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 14,
+            "length": 1.0,
+            "lyrics": "be-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 12,
+            "length": 1.0,
+            "lyrics": "ing",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 14,
+            "length": 2.0,
+            "lyrics": "young",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 16,
+            "length": 1.0,
+            "lyrics": "and",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 19,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 21,
+            "length": 4.0,
+            "lyrics": "fool-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 19,
+            "length": 1.0,
+            "lyrics": "ish,",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 24,
+            "length": 1.0,
+            "lyrics": "with",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 19,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 21,
+            "length": 2.0,
+            "lyrics": "her",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 19,
+            "length": 1.0,
+            "lyrics": "would",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 16,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 14,
+            "length": 3.0,
+            "lyrics": "not",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 12,
+            "length": 1.0,
+            "lyrics": "a-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 12,
+            "length": 4.0,
+            "lyrics": "gree.",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 4.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 4.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 2.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 21,
+            "length": 1.0,
+            "lyrics": "She",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 23,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 24,
+            "length": 3.0,
+            "lyrics": "bid",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 23,
+            "length": 1.0,
+            "lyrics": "me",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 21,
+            "length": 2.0,
+            "lyrics": "take",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 24,
+            "length": 2.0,
+            "lyrics": "life",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 23,
+            "length": 3.0,
+            "lyrics": "ea-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 21,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 19,
+            "length": 1.0,
+            "lyrics": "sy",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 19,
+            "length": 1.0,
+            "lyrics": "as",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 19,
+            "length": 1.0,
+            "lyrics": "the",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 21,
+            "length": 2.0,
+            "lyrics": "grass",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 19,
+            "length": 2.0,
+            "lyrics": "grows",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 19,
+            "length": 1.0,
+            "lyrics": "on",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 21,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 24,
+            "length": 1.0,
+            "lyrics": "the",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 26,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 24,
+            "length": 4.0,
+            "lyrics": "weirs;",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 2.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 12,
+            "length": 1.0,
+            "lyrics": "But",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 14,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 16,
+            "length": 2.0,
+            "lyrics": "I",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 14,
+            "length": 1.0,
+            "lyrics": "was",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 12,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 14,
+            "length": 2.0,
+            "lyrics": "young",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 16,
+            "length": 1.0,
+            "lyrics": "and",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 19,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 21,
+            "length": 4.0,
+            "lyrics": "fool-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 19,
+            "length": 1.0,
+            "lyrics": "ish",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 24,
+            "length": 1.0,
+            "lyrics": "and",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 19,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 21,
+            "length": 2.0,
+            "lyrics": "now",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 19,
+            "length": 1.0,
+            "lyrics": "am",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 16,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 14,
+            "length": 3.0,
+            "lyrics": "full",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 12,
+            "length": 1.0,
+            "lyrics": "of",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 12,
+            "length": 8.0,
+            "lyrics": "tears.",
+            "frequency": 0.0
+        }
+    ]
+}

@@ -1,0 +1,1198 @@
+{
+    "notes": [
+        {
+            "relativePitch": 100,
+            "length": 12.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.5,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "Swing",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 1.5,
+            "lyrics": "low,",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "sweet",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 1.0,
+            "lyrics": "cha-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "ri",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 15,
+            "length": 0.5,
+            "lyrics": "ot",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 13,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "Com-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "ing",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "for",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "to",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "car-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "ry",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 0.5,
+            "lyrics": "me",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 1.5,
+            "lyrics": "home",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 0.5,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 0.5,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 27,
+            "length": 0.25,
+            "lyrics": "Swing",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 0.25,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 1.5,
+            "lyrics": "low",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 0.5,
+            "lyrics": "sweet",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 1.0,
+            "lyrics": "cha-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "ri",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 15,
+            "length": 0.5,
+            "lyrics": "ot",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 13,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "Com-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "ing",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "for",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "to",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "car-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "ry",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 20,
+            "length": 0.5,
+            "lyrics": "me",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 1.5,
+            "lyrics": "home",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "I",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 0.5,
+            "lyrics": "looked",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "o-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "ver",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "Jor-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "dan",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 15,
+            "length": 0.5,
+            "lyrics": "and",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "what",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "did",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "I",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 15,
+            "length": 0.5,
+            "lyrics": "see",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 13,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "Com-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "ing",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "for",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "to",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "car-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "ry",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 0.5,
+            "lyrics": "me",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 1.5,
+            "lyrics": "home",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 0.5,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 0.5,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 0.5,
+            "lyrics": "A",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 27,
+            "length": 1.0,
+            "lyrics": "band",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 0.5,
+            "lyrics": "of",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 1.0,
+            "lyrics": "an-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "gels",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "com-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "ing",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "af-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "ter",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 15,
+            "length": 0.5,
+            "lyrics": "me",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 13,
+            "length": 0.5,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 0.5,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "Com-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "ing",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "for",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "to",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "car-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "ry",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 20,
+            "length": 0.5,
+            "lyrics": "me",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 1.5,
+            "lyrics": "home",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "Swing",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 1.5,
+            "lyrics": "low,",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "sweet",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 1.0,
+            "lyrics": "cha-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "ri",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 15,
+            "length": 0.5,
+            "lyrics": "ot",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 13,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "Com-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "ing",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "for",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "to",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "car-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "ry",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 0.5,
+            "lyrics": "me",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 1.5,
+            "lyrics": "home",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 0.5,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 0.5,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 27,
+            "length": 0.25,
+            "lyrics": "Swing",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 0.25,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 1.5,
+            "lyrics": "low",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 0.5,
+            "lyrics": "sweet",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 1.0,
+            "lyrics": "cha-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "ri",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 15,
+            "length": 0.5,
+            "lyrics": "ot",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 13,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "Com-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "ing",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "for",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "to",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "car-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "ry",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 20,
+            "length": 0.5,
+            "lyrics": "me",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 1.5,
+            "lyrics": "home",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "If",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 1.0,
+            "lyrics": "you",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "get",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 1.0,
+            "lyrics": "there",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 15,
+            "length": 0.5,
+            "lyrics": "be-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 1.0,
+            "lyrics": "fore",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "I",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 15,
+            "length": 0.5,
+            "lyrics": "do",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 13,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "Com-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "ing",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "for",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "to",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "car-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "ry",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 0.5,
+            "lyrics": "me",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 1.5,
+            "lyrics": "home",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 0.5,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 0.5,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 0.5,
+            "lyrics": "Tell",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 27,
+            "length": 1.0,
+            "lyrics": "all",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 0.5,
+            "lyrics": "my",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 1.0,
+            "lyrics": "friends",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "I\u2019m",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 1.0,
+            "lyrics": "com-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "ing",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 15,
+            "length": 0.5,
+            "lyrics": "too",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 13,
+            "length": 0.5,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 0.5,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "Com-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "ing",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "for",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "to",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "car-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "ry",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 20,
+            "length": 0.5,
+            "lyrics": "me",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 1.5,
+            "lyrics": "home",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "Swing",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 1.5,
+            "lyrics": "low,",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "sweet",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 1.0,
+            "lyrics": "cha-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "ri",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 15,
+            "length": 0.5,
+            "lyrics": "ot",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 13,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "Com-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "ing",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "for",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "to",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "car-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "ry",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 0.5,
+            "lyrics": "me",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 1.5,
+            "lyrics": "home",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 0.5,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 0.5,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 27,
+            "length": 0.25,
+            "lyrics": "Swing",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 0.25,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 1.5,
+            "lyrics": "low",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 25,
+            "length": 0.5,
+            "lyrics": "sweet",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 1.0,
+            "lyrics": "cha-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "ri",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 15,
+            "length": 0.5,
+            "lyrics": "ot",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 13,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "Com-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.5,
+            "lyrics": "ing",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "for",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 0.25,
+            "lyrics": "to",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "car-",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 22,
+            "length": 0.5,
+            "lyrics": "ry",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 20,
+            "length": 0.5,
+            "lyrics": "me",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 18,
+            "length": 1.5,
+            "lyrics": "home",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.5,
+            "lyrics": "",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 12.0,
+            "lyrics": "",
+            "frequency": 0.0
+        }
+    ]
+}
