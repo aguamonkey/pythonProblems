@@ -1,0 +1,830 @@
+{
+    "notes": [
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": "",
+            "noteName": "X",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 3,
+            "length": 6.0,
+            "lyrics": "If",
+            "noteName": "D4",
+            "frequency": 293.66
+        },
+        {
+            "relativePitch": 5,
+            "length": 2.0,
+            "lyrics": "ye",
+            "noteName": "E4",
+            "frequency": 329.63
+        },
+        {
+            "relativePitch": 7,
+            "length": 4.0,
+            "lyrics": "love",
+            "noteName": "Gb4",
+            "frequency": 369.99
+        },
+        {
+            "relativePitch": 8,
+            "length": 4.0,
+            "lyrics": "me,",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 2.0,
+            "lyrics": "",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 2.0,
+            "lyrics": "keep",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 7,
+            "length": 2.0,
+            "lyrics": "my",
+            "noteName": "Gb4",
+            "frequency": 369.99
+        },
+        {
+            "relativePitch": 5,
+            "length": 2.0,
+            "lyrics": "com-",
+            "noteName": "E4",
+            "frequency": 329.63
+        },
+        {
+            "relativePitch": 8,
+            "length": 4.0,
+            "lyrics": "mand",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 4.0,
+            "lyrics": "ments,",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 4.0,
+            "lyrics": "",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 4.0,
+            "lyrics": "",
+            "noteName": "X",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 8.0,
+            "lyrics": "",
+            "noteName": "X",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 2.0,
+            "lyrics": "",
+            "noteName": "X",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 5,
+            "length": 2.0,
+            "lyrics": "and",
+            "noteName": "E4",
+            "frequency": 329.63
+        },
+        {
+            "relativePitch": 5,
+            "length": 2.0,
+            "lyrics": "I",
+            "noteName": "E4",
+            "frequency": 329.63
+        },
+        {
+            "relativePitch": 5,
+            "length": 2.0,
+            "lyrics": "will",
+            "noteName": "E4",
+            "frequency": 329.63
+        },
+        {
+            "relativePitch": 8,
+            "length": 4.0,
+            "lyrics": "pray",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 7,
+            "length": 2.0,
+            "lyrics": "the",
+            "noteName": "Gb4",
+            "frequency": 369.99
+        },
+        {
+            "relativePitch": 5,
+            "length": 2.0,
+            "lyrics": "Fa-",
+            "noteName": "E4",
+            "frequency": 329.63
+        },
+        {
+            "relativePitch": 5,
+            "length": 2.0,
+            "lyrics": "",
+            "noteName": "E4",
+            "frequency": 329.63
+        },
+        {
+            "relativePitch": 3,
+            "length": 2.0,
+            "lyrics": "",
+            "noteName": "D4",
+            "frequency": 293.66
+        },
+        {
+            "relativePitch": 5,
+            "length": 2.0,
+            "lyrics": "ther,",
+            "noteName": "E4",
+            "frequency": 329.63
+        },
+        {
+            "relativePitch": 5,
+            "length": 2.0,
+            "lyrics": "and",
+            "noteName": "E4",
+            "frequency": 329.63
+        },
+        {
+            "relativePitch": 1,
+            "length": 2.0,
+            "lyrics": "He",
+            "noteName": "C4",
+            "frequency": 261.63
+        },
+        {
+            "relativePitch": 1,
+            "length": 2.0,
+            "lyrics": "shall",
+            "noteName": "C4",
+            "frequency": 261.63
+        },
+        {
+            "relativePitch": 8,
+            "length": 4.0,
+            "lyrics": "give",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 2.0,
+            "lyrics": "you",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 3,
+            "length": 2.0,
+            "lyrics": "a-",
+            "noteName": "D4",
+            "frequency": 293.66
+        },
+        {
+            "relativePitch": 8,
+            "length": 2.0,
+            "lyrics": "no",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 7,
+            "length": 2.0,
+            "lyrics": "ther",
+            "noteName": "Gb4",
+            "frequency": 369.99
+        },
+        {
+            "relativePitch": 5,
+            "length": 2.0,
+            "lyrics": "com-",
+            "noteName": "E4",
+            "frequency": 329.63
+        },
+        {
+            "relativePitch": 1,
+            "length": 2.0,
+            "lyrics": "",
+            "noteName": "C4",
+            "frequency": 261.63
+        },
+        {
+            "relativePitch": 3,
+            "length": 3.0,
+            "lyrics": "",
+            "noteName": "D4",
+            "frequency": 293.66
+        },
+        {
+            "relativePitch": 3,
+            "length": 1.0,
+            "lyrics": "fort",
+            "noteName": "D4",
+            "frequency": 293.66
+        },
+        {
+            "relativePitch": 3,
+            "length": 4.0,
+            "lyrics": "er,",
+            "noteName": "D4",
+            "frequency": 293.66
+        },
+        {
+            "relativePitch": 100,
+            "length": 4.0,
+            "lyrics": "",
+            "noteName": "X",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 4.0,
+            "lyrics": "",
+            "noteName": "X",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 4.0,
+            "lyrics": "that",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 13,
+            "length": 6.0,
+            "lyrics": "He",
+            "noteName": "C5",
+            "frequency": 523.25
+        },
+        {
+            "relativePitch": 12,
+            "length": 2.0,
+            "lyrics": "may",
+            "noteName": "B4",
+            "frequency": 493.88
+        },
+        {
+            "relativePitch": 10,
+            "length": 2.0,
+            "lyrics": "bide",
+            "noteName": "A4",
+            "frequency": 440.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 2.0,
+            "lyrics": "with",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 2.0,
+            "lyrics": "you",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 7,
+            "length": 2.0,
+            "lyrics": "for-",
+            "noteName": "Gb4",
+            "frequency": 369.99
+        },
+        {
+            "relativePitch": 8,
+            "length": 4.0,
+            "lyrics": "ev",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 2.0,
+            "lyrics": "er,",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 3,
+            "length": 2.0,
+            "lyrics": "with",
+            "noteName": "D4",
+            "frequency": 293.66
+        },
+        {
+            "relativePitch": 5,
+            "length": 2.0,
+            "lyrics": "you",
+            "noteName": "E4",
+            "frequency": 329.63
+        },
+        {
+            "relativePitch": 5,
+            "length": 2.0,
+            "lyrics": "for-",
+            "noteName": "E4",
+            "frequency": 329.63
+        },
+        {
+            "relativePitch": 5,
+            "length": 4.0,
+            "lyrics": "ev",
+            "noteName": "E4",
+            "frequency": 329.63
+        },
+        {
+            "relativePitch": 7,
+            "length": 4.0,
+            "lyrics": "er,",
+            "noteName": "Gb4",
+            "frequency": 369.99
+        },
+        {
+            "relativePitch": 7,
+            "length": 4.0,
+            "lyrics": "ev'n",
+            "noteName": "Gb4",
+            "frequency": 369.99
+        },
+        {
+            "relativePitch": 7,
+            "length": 2.0,
+            "lyrics": "the",
+            "noteName": "Gb4",
+            "frequency": 369.99
+        },
+        {
+            "relativePitch": 12,
+            "length": 4.0,
+            "lyrics": "spirit",
+            "noteName": "B4",
+            "frequency": 493.88
+        },
+        {
+            "relativePitch": 10,
+            "length": 2.0,
+            "lyrics": "of",
+            "noteName": "A4",
+            "frequency": 440.0
+        },
+        {
+            "relativePitch": 10,
+            "length": 1.0,
+            "lyrics": "",
+            "noteName": "A4",
+            "frequency": 440.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 1.0,
+            "lyrics": "",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 2.0,
+            "lyrics": "truth,",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 2.0,
+            "lyrics": "",
+            "noteName": "X",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 2.0,
+            "lyrics": "ev'n",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 2.0,
+            "lyrics": "",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 1,
+            "length": 2.0,
+            "lyrics": "the",
+            "noteName": "C4",
+            "frequency": 261.63
+        },
+        {
+            "relativePitch": 8,
+            "length": 2.0,
+            "lyrics": "spirit",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 2.0,
+            "lyrics": "of",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 7,
+            "length": 2.0,
+            "lyrics": "truth,",
+            "noteName": "Gb4",
+            "frequency": 369.99
+        },
+        {
+            "relativePitch": 15,
+            "length": 4.0,
+            "lyrics": "ev'n",
+            "noteName": "D5",
+            "frequency": 587.33
+        },
+        {
+            "relativePitch": 8,
+            "length": 2.0,
+            "lyrics": "the",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 15,
+            "length": 2.0,
+            "lyrics": "spirit",
+            "noteName": "D5",
+            "frequency": 587.33
+        },
+        {
+            "relativePitch": 13,
+            "length": 2.0,
+            "lyrics": "of",
+            "noteName": "C5",
+            "frequency": 523.25
+        },
+        {
+            "relativePitch": 12,
+            "length": 2.0,
+            "lyrics": "truth,",
+            "noteName": "B4",
+            "frequency": 493.88
+        },
+        {
+            "relativePitch": 10,
+            "length": 2.0,
+            "lyrics": "ev'n",
+            "noteName": "A4",
+            "frequency": 440.0
+        },
+        {
+            "relativePitch": 10,
+            "length": 1.0,
+            "lyrics": "",
+            "noteName": "A4",
+            "frequency": 440.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 1.0,
+            "lyrics": "the",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 4.0,
+            "lyrics": "spirit",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 7,
+            "length": 2.0,
+            "lyrics": "of",
+            "noteName": "Gb4",
+            "frequency": 369.99
+        },
+        {
+            "relativePitch": 8,
+            "length": 8.0,
+            "lyrics": "truth.",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 4.0,
+            "lyrics": "",
+            "noteName": "X",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 4.0,
+            "lyrics": "that",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 13,
+            "length": 6.0,
+            "lyrics": "He",
+            "noteName": "C5",
+            "frequency": 523.25
+        },
+        {
+            "relativePitch": 12,
+            "length": 2.0,
+            "lyrics": "may",
+            "noteName": "B4",
+            "frequency": 493.88
+        },
+        {
+            "relativePitch": 10,
+            "length": 2.0,
+            "lyrics": "bide",
+            "noteName": "A4",
+            "frequency": 440.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 2.0,
+            "lyrics": "with",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 2.0,
+            "lyrics": "you",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 7,
+            "length": 2.0,
+            "lyrics": "for-",
+            "noteName": "Gb4",
+            "frequency": 369.99
+        },
+        {
+            "relativePitch": 8,
+            "length": 4.0,
+            "lyrics": "ev",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 2.0,
+            "lyrics": "er,",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 3,
+            "length": 2.0,
+            "lyrics": "with",
+            "noteName": "D4",
+            "frequency": 293.66
+        },
+        {
+            "relativePitch": 5,
+            "length": 2.0,
+            "lyrics": "you",
+            "noteName": "E4",
+            "frequency": 329.63
+        },
+        {
+            "relativePitch": 5,
+            "length": 2.0,
+            "lyrics": "for-",
+            "noteName": "E4",
+            "frequency": 329.63
+        },
+        {
+            "relativePitch": 5,
+            "length": 4.0,
+            "lyrics": "ev",
+            "noteName": "E4",
+            "frequency": 329.63
+        },
+        {
+            "relativePitch": 7,
+            "length": 4.0,
+            "lyrics": "er,",
+            "noteName": "Gb4",
+            "frequency": 369.99
+        },
+        {
+            "relativePitch": 7,
+            "length": 4.0,
+            "lyrics": "ev'n",
+            "noteName": "Gb4",
+            "frequency": 369.99
+        },
+        {
+            "relativePitch": 7,
+            "length": 2.0,
+            "lyrics": "the",
+            "noteName": "Gb4",
+            "frequency": 369.99
+        },
+        {
+            "relativePitch": 12,
+            "length": 4.0,
+            "lyrics": "spirit",
+            "noteName": "B4",
+            "frequency": 493.88
+        },
+        {
+            "relativePitch": 10,
+            "length": 2.0,
+            "lyrics": "of",
+            "noteName": "A4",
+            "frequency": 440.0
+        },
+        {
+            "relativePitch": 10,
+            "length": 1.0,
+            "lyrics": "",
+            "noteName": "A4",
+            "frequency": 440.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 1.0,
+            "lyrics": "",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 2.0,
+            "lyrics": "truth,",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 100,
+            "length": 2.0,
+            "lyrics": "",
+            "noteName": "X",
+            "frequency": 0.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 2.0,
+            "lyrics": "ev'n",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 2.0,
+            "lyrics": "",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 1,
+            "length": 2.0,
+            "lyrics": "the",
+            "noteName": "C4",
+            "frequency": 261.63
+        },
+        {
+            "relativePitch": 8,
+            "length": 2.0,
+            "lyrics": "spirit",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 2.0,
+            "lyrics": "of",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 7,
+            "length": 2.0,
+            "lyrics": "truth,",
+            "noteName": "Gb4",
+            "frequency": 369.99
+        },
+        {
+            "relativePitch": 15,
+            "length": 4.0,
+            "lyrics": "ev'n",
+            "noteName": "D5",
+            "frequency": 587.33
+        },
+        {
+            "relativePitch": 8,
+            "length": 2.0,
+            "lyrics": "the",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 15,
+            "length": 2.0,
+            "lyrics": "spirit",
+            "noteName": "D5",
+            "frequency": 587.33
+        },
+        {
+            "relativePitch": 13,
+            "length": 2.0,
+            "lyrics": "of",
+            "noteName": "C5",
+            "frequency": 523.25
+        },
+        {
+            "relativePitch": 12,
+            "length": 2.0,
+            "lyrics": "truth,",
+            "noteName": "B4",
+            "frequency": 493.88
+        },
+        {
+            "relativePitch": 10,
+            "length": 2.0,
+            "lyrics": "ev'n",
+            "noteName": "A4",
+            "frequency": 440.0
+        },
+        {
+            "relativePitch": 10,
+            "length": 1.0,
+            "lyrics": "",
+            "noteName": "A4",
+            "frequency": 440.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 1.0,
+            "lyrics": "the",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 8,
+            "length": 4.0,
+            "lyrics": "spirit",
+            "noteName": "G4",
+            "frequency": 392.0
+        },
+        {
+            "relativePitch": 7,
+            "length": 2.0,
+            "lyrics": "of",
+            "noteName": "Gb4",
+            "frequency": 369.99
+        },
+        {
+            "relativePitch": 8,
+            "length": 8.0,
+            "lyrics": "truth.",
+            "noteName": "G4",
+            "frequency": 392.0
+        }
+    ]
+}

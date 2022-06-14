@@ -1,0 +1,956 @@
+{
+    "notes": [
+        {
+            "relativePitch": 100,
+            "length": 2.0,
+            "lyrics": "",
+            "frequency": 0.0,
+            "noteName": "X"
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0,
+            "noteName": "X"
+        },
+        {
+            "relativePitch": 100,
+            "length": 0.5,
+            "lyrics": "",
+            "frequency": 0.0,
+            "noteName": "X"
+        },
+        {
+            "relativePitch": 3,
+            "length": 0.5,
+            "lyrics": "There",
+            "frequency": 261.63,
+            "noteName": "C4"
+        },
+        {
+            "relativePitch": 3,
+            "length": 0.5,
+            "lyrics": "once",
+            "frequency": 261.63,
+            "noteName": "C4"
+        },
+        {
+            "relativePitch": 3,
+            "length": 0.25,
+            "lyrics": "was",
+            "frequency": 261.63,
+            "noteName": "C4"
+        },
+        {
+            "relativePitch": 3,
+            "length": 0.25,
+            "lyrics": "a",
+            "frequency": 261.63,
+            "noteName": "C4"
+        },
+        {
+            "relativePitch": 3,
+            "length": 0.5,
+            "lyrics": "ship",
+            "frequency": 261.63,
+            "noteName": "C4"
+        },
+        {
+            "relativePitch": 6,
+            "length": 0.5,
+            "lyrics": "that",
+            "frequency": 311.13,
+            "noteName": "Eb4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "put",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "to",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "sea,",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.25,
+            "lyrics": "And",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.25,
+            "lyrics": "the",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 11,
+            "length": 0.5,
+            "lyrics": "name",
+            "frequency": 415.3,
+            "noteName": "Ab4"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.25,
+            "lyrics": "of",
+            "frequency": 349.23,
+            "noteName": "F4"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.25,
+            "lyrics": "that",
+            "frequency": 349.23,
+            "noteName": "F4"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "ship",
+            "frequency": 349.23,
+            "noteName": "F4"
+        },
+        {
+            "relativePitch": 11,
+            "length": 0.25,
+            "lyrics": "was",
+            "frequency": 415.3,
+            "noteName": "Ab4"
+        },
+        {
+            "relativePitch": 11,
+            "length": 0.25,
+            "lyrics": "the",
+            "frequency": 415.3,
+            "noteName": "Ab4"
+        },
+        {
+            "relativePitch": 15,
+            "length": 0.25,
+            "lyrics": "Bil-",
+            "frequency": 523.25,
+            "noteName": "C5"
+        },
+        {
+            "relativePitch": 15,
+            "length": 0.25,
+            "lyrics": "ly",
+            "frequency": 523.25,
+            "noteName": "C5"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "o\u2019",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.75,
+            "lyrics": "Tea.",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 3,
+            "length": 0.25,
+            "lyrics": "The",
+            "frequency": 261.63,
+            "noteName": "C4"
+        },
+        {
+            "relativePitch": 3,
+            "length": 0.5,
+            "lyrics": "winds",
+            "frequency": 261.63,
+            "noteName": "C4"
+        },
+        {
+            "relativePitch": 3,
+            "length": 0.5,
+            "lyrics": "blew",
+            "frequency": 261.63,
+            "noteName": "C4"
+        },
+        {
+            "relativePitch": 3,
+            "length": 0.5,
+            "lyrics": "hard,",
+            "frequency": 261.63,
+            "noteName": "C4"
+        },
+        {
+            "relativePitch": 6,
+            "length": 0.5,
+            "lyrics": "her",
+            "frequency": 311.13,
+            "noteName": "Eb4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "bow",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "dipped",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 1.0,
+            "lyrics": "down.",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "Blow,",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "my",
+            "frequency": 349.23,
+            "noteName": "F4"
+        },
+        {
+            "relativePitch": 6,
+            "length": 0.25,
+            "lyrics": "bul-",
+            "frequency": 311.13,
+            "noteName": "Eb4"
+        },
+        {
+            "relativePitch": 6,
+            "length": 0.25,
+            "lyrics": "ly",
+            "frequency": 311.13,
+            "noteName": "Eb4"
+        },
+        {
+            "relativePitch": 5,
+            "length": 0.5,
+            "lyrics": "boys,",
+            "frequency": 293.66,
+            "noteName": "D4"
+        },
+        {
+            "relativePitch": 5,
+            "length": 0.5,
+            "lyrics": "boys,",
+            "frequency": 293.66,
+            "noteName": "D4"
+        },
+        {
+            "relativePitch": 3,
+            "length": 1.0,
+            "lyrics": "blow.",
+            "frequency": 261.63,
+            "noteName": "C4"
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0,
+            "noteName": "X"
+        },
+        {
+            "relativePitch": 15,
+            "length": 1.0,
+            "lyrics": "Soon",
+            "frequency": 523.25,
+            "noteName": "C5"
+        },
+        {
+            "relativePitch": 15,
+            "length": 0.75,
+            "lyrics": "may",
+            "frequency": 523.25,
+            "noteName": "C5"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.25,
+            "lyrics": "the",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 13,
+            "length": 0.25,
+            "lyrics": "Wel-",
+            "frequency": 466.16,
+            "noteName": "Bb4"
+        },
+        {
+            "relativePitch": 13,
+            "length": 0.25,
+            "lyrics": "ler",
+            "frequency": 466.16,
+            "noteName": "Bb4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "man",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.75,
+            "lyrics": "come,",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.25,
+            "lyrics": "to",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 11,
+            "length": 0.5,
+            "lyrics": "bring",
+            "frequency": 415.3,
+            "noteName": "Ab4"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "us",
+            "frequency": 349.23,
+            "noteName": "F4"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.25,
+            "lyrics": "su-",
+            "frequency": 349.23,
+            "noteName": "F4"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.25,
+            "lyrics": "gar",
+            "frequency": 349.23,
+            "noteName": "F4"
+        },
+        {
+            "relativePitch": 11,
+            "length": 0.5,
+            "lyrics": "and",
+            "frequency": 415.3,
+            "noteName": "Ab4"
+        },
+        {
+            "relativePitch": 15,
+            "length": 0.5,
+            "lyrics": "tea",
+            "frequency": 523.25,
+            "noteName": "C5"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "and",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 1.0,
+            "lyrics": "rum.",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 15,
+            "length": 1.0,
+            "lyrics": "One",
+            "frequency": 523.25,
+            "noteName": "C5"
+        },
+        {
+            "relativePitch": 15,
+            "length": 0.5,
+            "lyrics": "day",
+            "frequency": 523.25,
+            "noteName": "C5"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.25,
+            "lyrics": "when",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.25,
+            "lyrics": "the",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 13,
+            "length": 0.25,
+            "lyrics": "tong-",
+            "frequency": 466.16,
+            "noteName": "Bb4"
+        },
+        {
+            "relativePitch": 13,
+            "length": 0.25,
+            "lyrics": "uing",
+            "frequency": 466.16,
+            "noteName": "Bb4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "is",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "done",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "we\u2019ll",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "take",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "our",
+            "frequency": 349.23,
+            "noteName": "F4"
+        },
+        {
+            "relativePitch": 6,
+            "length": 0.5,
+            "lyrics": "leave",
+            "frequency": 311.13,
+            "noteName": "Eb4"
+        },
+        {
+            "relativePitch": 5,
+            "length": 0.5,
+            "lyrics": "and",
+            "frequency": 293.66,
+            "noteName": "D4"
+        },
+        {
+            "relativePitch": 5,
+            "length": 0.5,
+            "lyrics": "and",
+            "frequency": 293.66,
+            "noteName": "D4"
+        },
+        {
+            "relativePitch": 3,
+            "length": 1.0,
+            "lyrics": "go.",
+            "frequency": 261.63,
+            "noteName": "C4"
+        },
+        {
+            "relativePitch": 100,
+            "length": 0.5,
+            "lyrics": "",
+            "frequency": 0.0,
+            "noteName": "X"
+        },
+        {
+            "relativePitch": 3,
+            "length": 0.5,
+            "lyrics": "She",
+            "frequency": 261.63,
+            "noteName": "C4"
+        },
+        {
+            "relativePitch": 3,
+            "length": 0.5,
+            "lyrics": "had",
+            "frequency": 261.63,
+            "noteName": "C4"
+        },
+        {
+            "relativePitch": 3,
+            "length": 0.5,
+            "lyrics": "not",
+            "frequency": 261.63,
+            "noteName": "C4"
+        },
+        {
+            "relativePitch": 3,
+            "length": 0.5,
+            "lyrics": "been",
+            "frequency": 261.63,
+            "noteName": "C4"
+        },
+        {
+            "relativePitch": 6,
+            "length": 0.5,
+            "lyrics": "two",
+            "frequency": 311.13,
+            "noteName": "Eb4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "weeks",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "from",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "shore,",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "When",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 11,
+            "length": 0.5,
+            "lyrics": "down",
+            "frequency": 415.3,
+            "noteName": "Ab4"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "on",
+            "frequency": 349.23,
+            "noteName": "F4"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "her",
+            "frequency": 349.23,
+            "noteName": "F4"
+        },
+        {
+            "relativePitch": 11,
+            "length": 0.5,
+            "lyrics": "a",
+            "frequency": 415.3,
+            "noteName": "Ab4"
+        },
+        {
+            "relativePitch": 15,
+            "length": 0.5,
+            "lyrics": "right",
+            "frequency": 523.25,
+            "noteName": "C5"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "whale",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.75,
+            "lyrics": "bore.",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 3,
+            "length": 0.25,
+            "lyrics": "The",
+            "frequency": 261.63,
+            "noteName": "C4"
+        },
+        {
+            "relativePitch": 3,
+            "length": 0.5,
+            "lyrics": "cap-",
+            "frequency": 261.63,
+            "noteName": "C4"
+        },
+        {
+            "relativePitch": 3,
+            "length": 0.5,
+            "lyrics": "tain",
+            "frequency": 261.63,
+            "noteName": "C4"
+        },
+        {
+            "relativePitch": 3,
+            "length": 0.5,
+            "lyrics": "called",
+            "frequency": 261.63,
+            "noteName": "C4"
+        },
+        {
+            "relativePitch": 6,
+            "length": 0.5,
+            "lyrics": "all",
+            "frequency": 311.13,
+            "noteName": "Eb4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "hands",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "and",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "swore",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "He\u2019d",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "take",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "that",
+            "frequency": 349.23,
+            "noteName": "F4"
+        },
+        {
+            "relativePitch": 6,
+            "length": 0.5,
+            "lyrics": "whale",
+            "frequency": 311.13,
+            "noteName": "Eb4"
+        },
+        {
+            "relativePitch": 5,
+            "length": 0.5,
+            "lyrics": "in",
+            "frequency": 293.66,
+            "noteName": "D4"
+        },
+        {
+            "relativePitch": 5,
+            "length": 0.5,
+            "lyrics": "in",
+            "frequency": 293.66,
+            "noteName": "D4"
+        },
+        {
+            "relativePitch": 3,
+            "length": 1.0,
+            "lyrics": "tow.",
+            "frequency": 261.63,
+            "noteName": "C4"
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 261.63,
+            "noteName": "X"
+        },
+        {
+            "relativePitch": 15,
+            "length": 1.0,
+            "lyrics": "Soon",
+            "frequency": 523.25,
+            "noteName": "C5"
+        },
+        {
+            "relativePitch": 15,
+            "length": 0.75,
+            "lyrics": "may",
+            "frequency": 523.25,
+            "noteName": "C5"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.25,
+            "lyrics": "the",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 13,
+            "length": 0.25,
+            "lyrics": "Wel-",
+            "frequency": 466.16,
+            "noteName": "Bb4"
+        },
+        {
+            "relativePitch": 13,
+            "length": 0.25,
+            "lyrics": "ler",
+            "frequency": 466.16,
+            "noteName": "Bb4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "man",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.75,
+            "lyrics": "come,",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.25,
+            "lyrics": "to",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 11,
+            "length": 0.5,
+            "lyrics": "bring",
+            "frequency": 415.3,
+            "noteName": "Ab4"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "us",
+            "frequency": 349.23,
+            "noteName": "F4"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.25,
+            "lyrics": "su-",
+            "frequency": 349.23,
+            "noteName": "F4"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.25,
+            "lyrics": "gar",
+            "frequency": 349.23,
+            "noteName": "F4"
+        },
+        {
+            "relativePitch": 11,
+            "length": 0.5,
+            "lyrics": "and",
+            "frequency": 415.3,
+            "noteName": "Ab4"
+        },
+        {
+            "relativePitch": 15,
+            "length": 0.5,
+            "lyrics": "tea",
+            "frequency": 523.25,
+            "noteName": "C5"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "and",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 1.0,
+            "lyrics": "rum.",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 15,
+            "length": 1.0,
+            "lyrics": "One",
+            "frequency": 523.25,
+            "noteName": "C5"
+        },
+        {
+            "relativePitch": 15,
+            "length": 0.5,
+            "lyrics": "day",
+            "frequency": 523.25,
+            "noteName": "C5"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.25,
+            "lyrics": "when",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.25,
+            "lyrics": "the",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 13,
+            "length": 0.25,
+            "lyrics": "tong-",
+            "frequency": 466.16,
+            "noteName": "Bb4"
+        },
+        {
+            "relativePitch": 13,
+            "length": 0.25,
+            "lyrics": "uing",
+            "frequency": 466.16,
+            "noteName": "Bb4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "is",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "done",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "we\u2019ll",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "take",
+            "frequency": 392.0,
+            "noteName": "G4"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "our",
+            "frequency": 349.23,
+            "noteName": "F4"
+        },
+        {
+            "relativePitch": 6,
+            "length": 0.5,
+            "lyrics": "leave",
+            "frequency": 311.13,
+            "noteName": "Eb4"
+        },
+        {
+            "relativePitch": 5,
+            "length": 0.5,
+            "lyrics": "and",
+            "frequency": 293.66,
+            "noteName": "D4"
+        },
+        {
+            "relativePitch": 5,
+            "length": 0.5,
+            "lyrics": "and",
+            "frequency": 293.66,
+            "noteName": "D4"
+        },
+        {
+            "relativePitch": 3,
+            "length": 1.0,
+            "lyrics": "go.",
+            "frequency": 261.63,
+            "noteName": "C4"
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": "",
+            "frequency": 0.0,
+            "noteName": "X"
+        }
+    ]
+}
