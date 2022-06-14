@@ -4,1020 +4,1015 @@
             "relativePitch": 100,
             "length": 8.0,
             "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 100,
-            "length": 8.0,
-            "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         },
         {
             "relativePitch": 100,
             "length": 4.0,
             "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 8,
             "length": 1.0,
             "lyrics": "Swing",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 2.0,
             "lyrics": "low,",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 8,
             "length": 1.0,
             "lyrics": "sweet",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 17,
+            "relativePitch": 1,
             "length": 1.5,
             "lyrics": "cha-",
-            "frequency": 0.0
+            "noteName": "C4",
+            "frequency": 261.63
         },
         {
-            "relativePitch": 17,
+            "relativePitch": 1,
             "length": 0.5,
             "lyrics": "ri",
-            "frequency": 0.0
+            "noteName": "C4",
+            "frequency": 261.63
         },
         {
-            "relativePitch": 13,
-            "length": 0.5,
+            "relativePitch": 8,
+            "length": 1.0,
             "lyrics": "ot",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 12,
-            "length": 0.5,
-            "lyrics": "",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
             "relativePitch": 100,
             "length": 1.0,
             "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "Com-",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "ing",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 19,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "for",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 17,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "to",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "car-",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "ry",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 8,
             "length": 1.0,
             "lyrics": "me",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 19,
+            "relativePitch": 3,
             "length": 3.0,
             "lyrics": "home.",
-            "frequency": 0.0
+            "noteName": "D4",
+            "frequency": 293.66
         },
         {
             "relativePitch": 100,
             "length": 1.0,
             "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 8,
             "length": 1.0,
             "lyrics": "Swing",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 8,
             "length": 2.0,
             "lyrics": "low,",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 8,
             "length": 1.0,
             "lyrics": "sweet",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 17,
+            "relativePitch": 1,
             "length": 1.5,
             "lyrics": "cha-",
-            "frequency": 0.0
+            "noteName": "C4",
+            "frequency": 261.63
         },
         {
-            "relativePitch": 17,
+            "relativePitch": 1,
             "length": 0.5,
             "lyrics": "ri",
-            "frequency": 0.0
+            "noteName": "C4",
+            "frequency": 261.63
         },
         {
-            "relativePitch": 13,
-            "length": 0.5,
+            "relativePitch": 8,
+            "length": 1.0,
             "lyrics": "ot",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 12,
-            "length": 0.5,
-            "lyrics": "",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
             "relativePitch": 100,
             "length": 1.0,
             "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "Com-",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "ing",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 17,
-            "length": 0.5,
-            "lyrics": "for",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 17,
-            "length": 0.5,
-            "lyrics": "to",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
+            "relativePitch": 3,
             "length": 0.5,
             "lyrics": "car-",
-            "frequency": 0.0
+            "noteName": "D4",
+            "frequency": 293.66
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 3,
             "length": 0.5,
             "lyrics": "ry",
-            "frequency": 0.0
+            "noteName": "D4",
+            "frequency": 293.66
         },
         {
-            "relativePitch": 19,
+            "relativePitch": 3,
             "length": 1.0,
             "lyrics": "me",
-            "frequency": 0.0
+            "noteName": "D4",
+            "frequency": 293.66
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 3.0,
             "lyrics": "home.",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
             "relativePitch": 100,
             "length": 1.0,
             "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         },
         {
             "relativePitch": 100,
             "length": 4.0,
             "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 2.0,
             "lyrics": "Ooh",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 17,
-            "length": 2.0,
-            "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 17,
+            "relativePitch": 1,
             "length": 2.0,
             "lyrics": "Ooh",
-            "frequency": 0.0
+            "noteName": "C4",
+            "frequency": 261.63
         },
         {
-            "relativePitch": 13,
-            "length": 0.5,
+            "relativePitch": 8,
+            "length": 1.0,
             "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 12,
-            "length": 0.5,
-            "lyrics": "",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
             "relativePitch": 100,
             "length": 1.0,
             "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "Com-",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "ing",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 19,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "for",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 17,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "to",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "car-",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "ry",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 8,
             "length": 1.0,
             "lyrics": "me",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 19,
+            "relativePitch": 3,
             "length": 3.0,
             "lyrics": "home.",
-            "frequency": 0.0
+            "noteName": "D4",
+            "frequency": 293.66
         },
         {
             "relativePitch": 100,
             "length": 1.0,
             "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 2.0,
             "lyrics": "Ooh",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 17,
-            "length": 2.0,
-            "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 17,
+            "relativePitch": 1,
             "length": 2.0,
             "lyrics": "Ooh",
-            "frequency": 0.0
+            "noteName": "C4",
+            "frequency": 261.63
         },
         {
-            "relativePitch": 13,
-            "length": 0.5,
+            "relativePitch": 8,
+            "length": 1.0,
             "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 12,
-            "length": 0.5,
-            "lyrics": "",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
             "relativePitch": 100,
             "length": 1.0,
             "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "Com-",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "ing",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 17,
-            "length": 0.5,
-            "lyrics": "for",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 17,
-            "length": 0.5,
-            "lyrics": "to",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
+            "relativePitch": 3,
             "length": 0.5,
             "lyrics": "car-",
-            "frequency": 0.0
+            "noteName": "D4",
+            "frequency": 293.66
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 3,
             "length": 0.5,
             "lyrics": "ry",
-            "frequency": 0.0
+            "noteName": "D4",
+            "frequency": 293.66
         },
         {
-            "relativePitch": 19,
+            "relativePitch": 3,
             "length": 1.0,
             "lyrics": "me",
-            "frequency": 0.0
+            "noteName": "D4",
+            "frequency": 293.66
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 3.0,
             "lyrics": "home.",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
             "relativePitch": 100,
             "length": 1.0,
             "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         },
         {
             "relativePitch": 100,
             "length": 4.0,
             "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 8,
             "length": 1.0,
             "lyrics": "Swing",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 2.0,
             "lyrics": "low,",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 8,
             "length": 1.0,
             "lyrics": "sweet",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 17,
+            "relativePitch": 1,
             "length": 1.5,
             "lyrics": "cha-",
-            "frequency": 0.0
+            "noteName": "C4",
+            "frequency": 261.63
         },
         {
-            "relativePitch": 17,
+            "relativePitch": 1,
             "length": 0.5,
             "lyrics": "ri",
-            "frequency": 0.0
+            "noteName": "C4",
+            "frequency": 261.63
         },
         {
-            "relativePitch": 13,
-            "length": 0.5,
+            "relativePitch": 8,
+            "length": 1.0,
             "lyrics": "ot",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 12,
-            "length": 0.5,
-            "lyrics": "",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
             "relativePitch": 100,
             "length": 1.0,
             "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "Com-",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "ing",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 19,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "for",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 17,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "to",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "car-",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "ry",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 8,
             "length": 1.0,
             "lyrics": "me",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 19,
+            "relativePitch": 3,
             "length": 3.0,
             "lyrics": "home.",
-            "frequency": 0.0
+            "noteName": "D4",
+            "frequency": 293.66
         },
         {
             "relativePitch": 100,
             "length": 1.0,
             "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 8,
             "length": 1.0,
             "lyrics": "Swing",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 8,
             "length": 2.0,
             "lyrics": "low,",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 8,
             "length": 1.0,
             "lyrics": "sweet",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 17,
+            "relativePitch": 1,
             "length": 1.5,
             "lyrics": "cha-",
-            "frequency": 0.0
+            "noteName": "C4",
+            "frequency": 261.63
         },
         {
-            "relativePitch": 17,
+            "relativePitch": 1,
             "length": 0.5,
             "lyrics": "ri",
-            "frequency": 0.0
+            "noteName": "C4",
+            "frequency": 261.63
         },
         {
-            "relativePitch": 13,
-            "length": 0.5,
+            "relativePitch": 8,
+            "length": 1.0,
             "lyrics": "ot",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 12,
-            "length": 0.5,
-            "lyrics": "",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
             "relativePitch": 100,
             "length": 1.0,
             "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "Com-",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "ing",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 17,
-            "length": 0.5,
-            "lyrics": "for",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 17,
-            "length": 0.5,
-            "lyrics": "to",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
+            "relativePitch": 3,
             "length": 0.5,
             "lyrics": "car-",
-            "frequency": 0.0
+            "noteName": "D4",
+            "frequency": 293.66
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 3,
             "length": 0.5,
             "lyrics": "ry",
-            "frequency": 0.0
+            "noteName": "D4",
+            "frequency": 293.66
         },
         {
-            "relativePitch": 19,
+            "relativePitch": 3,
             "length": 1.0,
             "lyrics": "me",
-            "frequency": 0.0
+            "noteName": "D4",
+            "frequency": 293.66
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 3.0,
             "lyrics": "home.",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
             "relativePitch": 100,
             "length": 1.0,
             "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         },
         {
             "relativePitch": 100,
             "length": 4.0,
             "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 2.0,
             "lyrics": "Ooh",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 17,
-            "length": 2.0,
-            "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 17,
+            "relativePitch": 1,
             "length": 2.0,
             "lyrics": "Ooh",
-            "frequency": 0.0
+            "noteName": "C4",
+            "frequency": 261.63
         },
         {
-            "relativePitch": 13,
-            "length": 0.5,
+            "relativePitch": 8,
+            "length": 1.0,
             "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 12,
-            "length": 0.5,
-            "lyrics": "",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
             "relativePitch": 100,
             "length": 1.0,
             "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "Com-",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "ing",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 19,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "for",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 17,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "to",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "car-",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "ry",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 8,
             "length": 1.0,
             "lyrics": "me",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 19,
+            "relativePitch": 3,
             "length": 3.0,
             "lyrics": "home.",
-            "frequency": 0.0
+            "noteName": "D4",
+            "frequency": 293.66
         },
         {
             "relativePitch": 100,
             "length": 1.0,
             "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 2.0,
             "lyrics": "Ooh",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 17,
-            "length": 2.0,
-            "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 17,
+            "relativePitch": 1,
             "length": 2.0,
             "lyrics": "Ooh",
-            "frequency": 0.0
+            "noteName": "C4",
+            "frequency": 261.63
         },
         {
-            "relativePitch": 13,
-            "length": 0.5,
+            "relativePitch": 8,
+            "length": 1.0,
             "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 12,
-            "length": 0.5,
-            "lyrics": "",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
             "relativePitch": 100,
             "length": 1.0,
             "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "Com-",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "ing",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 17,
-            "length": 0.5,
-            "lyrics": "for",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 17,
-            "length": 0.5,
-            "lyrics": "to",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
+            "relativePitch": 3,
             "length": 0.5,
             "lyrics": "car-",
-            "frequency": 0.0
+            "noteName": "D4",
+            "frequency": 293.66
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 3,
             "length": 0.5,
             "lyrics": "ry",
-            "frequency": 0.0
+            "noteName": "D4",
+            "frequency": 293.66
         },
         {
-            "relativePitch": 19,
+            "relativePitch": 3,
             "length": 1.0,
             "lyrics": "me",
-            "frequency": 0.0
+            "noteName": "D4",
+            "frequency": 293.66
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 3.0,
             "lyrics": "home.",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
             "relativePitch": 100,
             "length": 1.0,
             "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         },
         {
             "relativePitch": 100,
             "length": 4.0,
             "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 8,
             "length": 1.0,
             "lyrics": "Swing",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 2.0,
             "lyrics": "low,",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 8,
             "length": 1.0,
             "lyrics": "sweet",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 17,
+            "relativePitch": 1,
             "length": 1.5,
             "lyrics": "cha-",
-            "frequency": 0.0
+            "noteName": "C4",
+            "frequency": 261.63
         },
         {
-            "relativePitch": 17,
+            "relativePitch": 1,
             "length": 0.5,
             "lyrics": "ri",
-            "frequency": 0.0
+            "noteName": "C4",
+            "frequency": 261.63
         },
         {
-            "relativePitch": 13,
-            "length": 0.5,
+            "relativePitch": 8,
+            "length": 1.0,
             "lyrics": "ot",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 12,
-            "length": 0.5,
-            "lyrics": "",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
             "relativePitch": 100,
             "length": 1.0,
             "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "Com-",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "ing",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 19,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "for",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 17,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "to",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "car-",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "ry",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 8,
             "length": 1.0,
             "lyrics": "me",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 19,
+            "relativePitch": 3,
             "length": 3.0,
             "lyrics": "home.",
-            "frequency": 0.0
+            "noteName": "D4",
+            "frequency": 293.66
         },
         {
             "relativePitch": 100,
             "length": 1.0,
             "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 8,
             "length": 1.0,
             "lyrics": "Swing",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 8,
             "length": 2.0,
             "lyrics": "low,",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 8,
             "length": 1.0,
             "lyrics": "sweet",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 17,
+            "relativePitch": 1,
             "length": 1.5,
             "lyrics": "cha-",
-            "frequency": 0.0
+            "noteName": "C4",
+            "frequency": 261.63
         },
         {
-            "relativePitch": 17,
+            "relativePitch": 1,
             "length": 0.5,
             "lyrics": "ri",
-            "frequency": 0.0
+            "noteName": "C4",
+            "frequency": 261.63
         },
         {
-            "relativePitch": 13,
-            "length": 0.5,
+            "relativePitch": 8,
+            "length": 1.0,
             "lyrics": "ot",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 12,
-            "length": 0.5,
-            "lyrics": "",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
             "relativePitch": 100,
             "length": 1.0,
             "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "Com-",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 0.5,
             "lyrics": "ing",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
-            "relativePitch": 17,
-            "length": 0.5,
-            "lyrics": "for",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 17,
-            "length": 0.5,
-            "lyrics": "to",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
+            "relativePitch": 3,
             "length": 0.5,
             "lyrics": "car-",
-            "frequency": 0.0
+            "noteName": "D4",
+            "frequency": 293.66
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 3,
             "length": 0.5,
             "lyrics": "ry",
-            "frequency": 0.0
+            "noteName": "D4",
+            "frequency": 293.66
         },
         {
-            "relativePitch": 19,
+            "relativePitch": 3,
             "length": 1.0,
             "lyrics": "me",
-            "frequency": 0.0
+            "noteName": "D4",
+            "frequency": 293.66
         },
         {
-            "relativePitch": 15,
+            "relativePitch": 8,
             "length": 3.0,
             "lyrics": "home.",
-            "frequency": 0.0
+            "noteName": "G4",
+            "frequency": 392.0
         },
         {
             "relativePitch": 100,
             "length": 1.0,
             "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         },
         {
             "relativePitch": 100,
             "length": 4.0,
             "lyrics": "",
+            "noteName": "X",
             "frequency": 0.0
         }
     ]

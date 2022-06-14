@@ -2,1137 +2,868 @@
     "notes": [
         {
             "relativePitch": 100,
-            "length": 2.0,
-            "lyrics": "",
-            "frequency": 0.0
+            "length": 8.0,
+            "lyrics": ""
         },
         {
             "relativePitch": 100,
-            "length": 1.0,
-            "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 1.0,
-            "lyrics": "It's",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 3.0,
-            "lyrics": "me,",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 1.0,
-            "lyrics": "it's",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "me,",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 1.0,
-            "lyrics": "O",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 1.5,
-            "lyrics": "Lord,",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 100,
-            "length": 1.0,
-            "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "stand-",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "ing",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "in",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "the",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 0.5,
-            "lyrics": "need",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 1.0,
-            "lyrics": "of",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 2.5,
-            "lyrics": "prayer",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 100,
-            "length": 1.0,
-            "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 1.0,
-            "lyrics": "It's",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 3.0,
-            "lyrics": "me,",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 1.0,
-            "lyrics": "it's",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "me,",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 1.0,
-            "lyrics": "O",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 1.5,
-            "lyrics": "Lord,",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 100,
-            "length": 1.0,
-            "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "stand-",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "ing",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "in",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "the",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 0.5,
-            "lyrics": "need",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 1.0,
-            "lyrics": "of",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 3.5,
-            "lyrics": "prayer",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 100,
-            "length": 1.0,
-            "lyrics": "",
-            "frequency": 0.0
+            "length": 8.0,
+            "lyrics": ""
         },
         {
             "relativePitch": 100,
             "length": 2.0,
-            "lyrics": "",
-            "frequency": 0.0
+            "lyrics": ""
         },
         {
             "relativePitch": 100,
             "length": 1.0,
-            "lyrics": "",
-            "frequency": 0.0
+            "lyrics": ""
         },
         {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "Not",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 23,
-            "length": 0.5,
-            "lyrics": "my",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "bro-",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 27,
-            "length": 0.5,
-            "lyrics": "ther,",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "not",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 23,
-            "length": 0.5,
-            "lyrics": "my",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "sis-",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 27,
-            "length": 0.5,
-            "lyrics": "ter,",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "but",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 0.5,
-            "lyrics": "it's",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "me,",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
+            "relativePitch": 8,
             "length": 1.0,
-            "lyrics": "O",
-            "frequency": 0.0
+            "lyrics": "It's"
         },
         {
-            "relativePitch": 20,
-            "length": 1.5,
-            "lyrics": "Lord",
-            "frequency": 0.0
+            "relativePitch": 8,
+            "length": 3.0,
+            "lyrics": "me,"
+        },
+        {
+            "relativePitch": 8,
+            "length": 1.0,
+            "lyrics": "it's"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "me,"
+        },
+        {
+            "relativePitch": 7,
+            "length": 1.0,
+            "lyrics": "O"
+        },
+        {
+            "relativePitch": 5,
+            "length": 0.5,
+            "lyrics": "Lord,"
+        },
+        {
+            "relativePitch": 5,
+            "length": 1.0,
+            "lyrics": ""
         },
         {
             "relativePitch": 100,
             "length": 1.0,
-            "lyrics": "",
-            "frequency": 0.0
+            "lyrics": ""
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 10,
             "length": 0.5,
-            "lyrics": "stand-",
-            "frequency": 0.0
+            "lyrics": "stand-"
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 10,
             "length": 0.5,
-            "lyrics": "ing",
-            "frequency": 0.0
+            "lyrics": "ing"
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 10,
             "length": 0.5,
-            "lyrics": "in",
-            "frequency": 0.0
+            "lyrics": "in"
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 10,
             "length": 0.5,
-            "lyrics": "the",
-            "frequency": 0.0
+            "lyrics": "the"
         },
         {
-            "relativePitch": 22,
+            "relativePitch": 3,
             "length": 0.5,
-            "lyrics": "need",
-            "frequency": 0.0
+            "lyrics": "need"
         },
         {
-            "relativePitch": 22,
+            "relativePitch": 3,
             "length": 1.0,
-            "lyrics": "of",
-            "frequency": 0.0
+            "lyrics": "of"
         },
         {
-            "relativePitch": 24,
-            "length": 2.5,
-            "lyrics": "prayer",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 100,
-            "length": 1.0,
-            "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
+            "relativePitch": 8,
             "length": 0.5,
-            "lyrics": "Not",
-            "frequency": 0.0
+            "lyrics": "prayer"
         },
         {
-            "relativePitch": 23,
-            "length": 0.5,
-            "lyrics": "my",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "bro-",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 27,
-            "length": 0.5,
-            "lyrics": "ther,",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "not",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 23,
-            "length": 0.5,
-            "lyrics": "my",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "sis-",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 27,
-            "length": 0.5,
-            "lyrics": "ter,",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "but",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 0.5,
-            "lyrics": "it's",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "me,",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 1.0,
-            "lyrics": "O",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 1.5,
-            "lyrics": "Lord",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 100,
-            "length": 1.0,
-            "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "stand-",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "ing",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "in",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "the",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 0.5,
-            "lyrics": "need",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 1.0,
-            "lyrics": "of",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 3.5,
-            "lyrics": "prayer",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 100,
-            "length": 1.0,
-            "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 100,
+            "relativePitch": 8,
             "length": 2.0,
-            "lyrics": "",
-            "frequency": 0.0
+            "lyrics": ""
         },
         {
             "relativePitch": 100,
             "length": 1.0,
-            "lyrics": "",
-            "frequency": 0.0
+            "lyrics": ""
         },
         {
-            "relativePitch": 24,
+            "relativePitch": 8,
             "length": 1.0,
-            "lyrics": "It's",
-            "frequency": 0.0
+            "lyrics": "It's"
         },
         {
-            "relativePitch": 24,
+            "relativePitch": 8,
             "length": 3.0,
-            "lyrics": "me,",
-            "frequency": 0.0
+            "lyrics": "me,"
         },
         {
-            "relativePitch": 24,
+            "relativePitch": 8,
             "length": 1.0,
-            "lyrics": "it's",
-            "frequency": 0.0
+            "lyrics": "it's"
         },
         {
-            "relativePitch": 24,
+            "relativePitch": 8,
             "length": 0.5,
-            "lyrics": "me,",
-            "frequency": 0.0
+            "lyrics": "me,"
         },
         {
-            "relativePitch": 22,
+            "relativePitch": 7,
             "length": 1.0,
-            "lyrics": "O",
-            "frequency": 0.0
+            "lyrics": "O"
         },
         {
-            "relativePitch": 20,
-            "length": 1.5,
-            "lyrics": "Lord,",
-            "frequency": 0.0
+            "relativePitch": 5,
+            "length": 0.5,
+            "lyrics": "Lord,"
+        },
+        {
+            "relativePitch": 5,
+            "length": 1.0,
+            "lyrics": ""
         },
         {
             "relativePitch": 100,
             "length": 1.0,
-            "lyrics": "",
-            "frequency": 0.0
+            "lyrics": ""
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 10,
             "length": 0.5,
-            "lyrics": "stand-",
-            "frequency": 0.0
+            "lyrics": "stand-"
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 10,
             "length": 0.5,
-            "lyrics": "ing",
-            "frequency": 0.0
+            "lyrics": "ing"
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 10,
             "length": 0.5,
-            "lyrics": "in",
-            "frequency": 0.0
+            "lyrics": "in"
         },
         {
-            "relativePitch": 20,
+            "relativePitch": 10,
             "length": 0.5,
-            "lyrics": "the",
-            "frequency": 0.0
+            "lyrics": "the"
         },
         {
-            "relativePitch": 22,
+            "relativePitch": 3,
             "length": 0.5,
-            "lyrics": "need",
-            "frequency": 0.0
+            "lyrics": "need"
         },
         {
-            "relativePitch": 22,
+            "relativePitch": 3,
             "length": 1.0,
-            "lyrics": "of",
-            "frequency": 0.0
+            "lyrics": "of"
         },
         {
-            "relativePitch": 24,
-            "length": 2.5,
-            "lyrics": "prayer",
-            "frequency": 0.0
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "prayer"
         },
         {
-            "relativePitch": 100,
-            "length": 1.0,
-            "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 1.0,
-            "lyrics": "It's",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
+            "relativePitch": 8,
             "length": 3.0,
-            "lyrics": "me,",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 1.0,
-            "lyrics": "it's",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "me,",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 1.0,
-            "lyrics": "O",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 1.5,
-            "lyrics": "Lord,",
-            "frequency": 0.0
+            "lyrics": ""
         },
         {
             "relativePitch": 100,
             "length": 1.0,
-            "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "stand-",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "ing",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "in",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "the",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 0.5,
-            "lyrics": "need",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 1.0,
-            "lyrics": "of",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 3.5,
-            "lyrics": "prayer",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 100,
-            "length": 1.0,
-            "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 100,
-            "length": 2.0,
-            "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 100,
-            "length": 1.0,
-            "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "Not",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 23,
-            "length": 0.5,
-            "lyrics": "the",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "stran-",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 27,
-            "length": 0.5,
-            "lyrics": "ger,",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "not",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 23,
-            "length": 0.5,
-            "lyrics": "my",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "neigh-",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 27,
-            "length": 0.5,
-            "lyrics": "bour,",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "but",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 0.5,
-            "lyrics": "it's",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "me,",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 1.0,
-            "lyrics": "O",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 1.5,
-            "lyrics": "Lord",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 100,
-            "length": 1.0,
-            "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "stand-",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "ing",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "in",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "the",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 0.5,
-            "lyrics": "need",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 1.0,
-            "lyrics": "of",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 2.5,
-            "lyrics": "prayer",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 100,
-            "length": 1.0,
-            "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "Not",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 23,
-            "length": 0.5,
-            "lyrics": "the",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "stran-",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 27,
-            "length": 0.5,
-            "lyrics": "ger,",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "not",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 23,
-            "length": 0.5,
-            "lyrics": "my",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "neigh-",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 27,
-            "length": 0.5,
-            "lyrics": "bour,",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "but",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 0.5,
-            "lyrics": "it's",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "me,",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 1.0,
-            "lyrics": "O",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 1.5,
-            "lyrics": "Lord",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 100,
-            "length": 1.0,
-            "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "stand-",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "ing",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "in",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "the",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 0.5,
-            "lyrics": "need",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 1.0,
-            "lyrics": "of",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 3.5,
-            "lyrics": "prayer",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 100,
-            "length": 1.0,
-            "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 100,
-            "length": 2.0,
-            "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 100,
-            "length": 1.0,
-            "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 1.0,
-            "lyrics": "It's",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 3.0,
-            "lyrics": "me,",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 1.0,
-            "lyrics": "it's",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "me,",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 1.0,
-            "lyrics": "O",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 1.5,
-            "lyrics": "Lord,",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 100,
-            "length": 1.0,
-            "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "stand-",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "ing",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "in",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "the",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 0.5,
-            "lyrics": "need",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 1.0,
-            "lyrics": "of",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 2.5,
-            "lyrics": "prayer",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 100,
-            "length": 1.0,
-            "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 1.0,
-            "lyrics": "It's",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 3.0,
-            "lyrics": "me,",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 1.0,
-            "lyrics": "it's",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 24,
-            "length": 0.5,
-            "lyrics": "me,",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 1.0,
-            "lyrics": "O",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 1.5,
-            "lyrics": "Lord,",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 100,
-            "length": 1.0,
-            "lyrics": "",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "stand-",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "ing",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "in",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 0.5,
-            "lyrics": "the",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 0.5,
-            "lyrics": "need",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 22,
-            "length": 1.0,
-            "lyrics": "of",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 20,
-            "length": 3.5,
-            "lyrics": "prayer",
-            "frequency": 0.0
-        },
-        {
-            "relativePitch": 100,
-            "length": 1.0,
-            "lyrics": "",
-            "frequency": 0.0
+            "lyrics": ""
         },
         {
             "relativePitch": 100,
             "length": 4.0,
-            "lyrics": "",
-            "frequency": 0.0
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 8,
+            "length": 4.0,
+            "lyrics": "Ooh"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "Ooh"
+        },
+        {
+            "relativePitch": 7,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 5,
+            "length": 0.5,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 5,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "stand-"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "ing"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "in"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "the"
+        },
+        {
+            "relativePitch": 3,
+            "length": 0.5,
+            "lyrics": "need"
+        },
+        {
+            "relativePitch": 3,
+            "length": 1.0,
+            "lyrics": "of"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "prayer"
+        },
+        {
+            "relativePitch": 8,
+            "length": 2.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 100,
+            "length": 2.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 8,
+            "length": 4.0,
+            "lyrics": "Ooh"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "Ooh"
+        },
+        {
+            "relativePitch": 7,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 5,
+            "length": 0.5,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 5,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "stand-"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "ing"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "in"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "the"
+        },
+        {
+            "relativePitch": 3,
+            "length": 0.5,
+            "lyrics": "need"
+        },
+        {
+            "relativePitch": 3,
+            "length": 1.0,
+            "lyrics": "of"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "prayer"
+        },
+        {
+            "relativePitch": 8,
+            "length": 3.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 100,
+            "length": 2.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 8,
+            "length": 1.0,
+            "lyrics": "It's"
+        },
+        {
+            "relativePitch": 8,
+            "length": 3.0,
+            "lyrics": "me,"
+        },
+        {
+            "relativePitch": 8,
+            "length": 1.0,
+            "lyrics": "it's"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "me,"
+        },
+        {
+            "relativePitch": 7,
+            "length": 1.0,
+            "lyrics": "O"
+        },
+        {
+            "relativePitch": 5,
+            "length": 0.5,
+            "lyrics": "Lord,"
+        },
+        {
+            "relativePitch": 5,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "stand-"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "ing"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "in"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "the"
+        },
+        {
+            "relativePitch": 3,
+            "length": 0.5,
+            "lyrics": "need"
+        },
+        {
+            "relativePitch": 3,
+            "length": 1.0,
+            "lyrics": "of"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "prayer"
+        },
+        {
+            "relativePitch": 8,
+            "length": 2.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 8,
+            "length": 1.0,
+            "lyrics": "It's"
+        },
+        {
+            "relativePitch": 8,
+            "length": 3.0,
+            "lyrics": "me,"
+        },
+        {
+            "relativePitch": 8,
+            "length": 1.0,
+            "lyrics": "it's"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "me,"
+        },
+        {
+            "relativePitch": 7,
+            "length": 1.0,
+            "lyrics": "O"
+        },
+        {
+            "relativePitch": 5,
+            "length": 0.5,
+            "lyrics": "Lord,"
+        },
+        {
+            "relativePitch": 5,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "stand-"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "ing"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "in"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "the"
+        },
+        {
+            "relativePitch": 3,
+            "length": 0.5,
+            "lyrics": "need"
+        },
+        {
+            "relativePitch": 3,
+            "length": 1.0,
+            "lyrics": "of"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "prayer"
+        },
+        {
+            "relativePitch": 8,
+            "length": 3.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 100,
+            "length": 4.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 8,
+            "length": 4.0,
+            "lyrics": "Ooh"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "Ooh"
+        },
+        {
+            "relativePitch": 7,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 5,
+            "length": 0.5,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 5,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "stand-"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "ing"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "in"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "the"
+        },
+        {
+            "relativePitch": 3,
+            "length": 0.5,
+            "lyrics": "need"
+        },
+        {
+            "relativePitch": 3,
+            "length": 1.0,
+            "lyrics": "of"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "prayer"
+        },
+        {
+            "relativePitch": 8,
+            "length": 2.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 100,
+            "length": 2.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 8,
+            "length": 4.0,
+            "lyrics": "Ooh"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "Ooh"
+        },
+        {
+            "relativePitch": 7,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 5,
+            "length": 0.5,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 5,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "stand-"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "ing"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "in"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "the"
+        },
+        {
+            "relativePitch": 3,
+            "length": 0.5,
+            "lyrics": "need"
+        },
+        {
+            "relativePitch": 3,
+            "length": 1.0,
+            "lyrics": "of"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "prayer"
+        },
+        {
+            "relativePitch": 8,
+            "length": 3.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 100,
+            "length": 2.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 8,
+            "length": 1.0,
+            "lyrics": "It's"
+        },
+        {
+            "relativePitch": 8,
+            "length": 3.0,
+            "lyrics": "me,"
+        },
+        {
+            "relativePitch": 8,
+            "length": 1.0,
+            "lyrics": "it's"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "me,"
+        },
+        {
+            "relativePitch": 7,
+            "length": 1.0,
+            "lyrics": "O"
+        },
+        {
+            "relativePitch": 5,
+            "length": 0.5,
+            "lyrics": "Lord,"
+        },
+        {
+            "relativePitch": 5,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "stand-"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "ing"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "in"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "the"
+        },
+        {
+            "relativePitch": 3,
+            "length": 0.5,
+            "lyrics": "need"
+        },
+        {
+            "relativePitch": 3,
+            "length": 1.0,
+            "lyrics": "of"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "prayer"
+        },
+        {
+            "relativePitch": 8,
+            "length": 2.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 8,
+            "length": 1.0,
+            "lyrics": "It's"
+        },
+        {
+            "relativePitch": 8,
+            "length": 3.0,
+            "lyrics": "me,"
+        },
+        {
+            "relativePitch": 8,
+            "length": 1.0,
+            "lyrics": "it's"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "me,"
+        },
+        {
+            "relativePitch": 7,
+            "length": 1.0,
+            "lyrics": "O"
+        },
+        {
+            "relativePitch": 5,
+            "length": 0.5,
+            "lyrics": "Lord,"
+        },
+        {
+            "relativePitch": 5,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "stand-"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "ing"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "in"
+        },
+        {
+            "relativePitch": 10,
+            "length": 0.5,
+            "lyrics": "the"
+        },
+        {
+            "relativePitch": 3,
+            "length": 0.5,
+            "lyrics": "need"
+        },
+        {
+            "relativePitch": 3,
+            "length": 1.0,
+            "lyrics": "of"
+        },
+        {
+            "relativePitch": 8,
+            "length": 0.5,
+            "lyrics": "prayer"
+        },
+        {
+            "relativePitch": 8,
+            "length": 3.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": ""
+        },
+        {
+            "relativePitch": 100,
+            "length": 4.0,
+            "lyrics": ""
         }
     ]
 }

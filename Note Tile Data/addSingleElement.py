@@ -27,13 +27,25 @@ for info in data["notes"]:
        # print(info)
         #once you know the associated note value to the relative pitch you can likely append them all
     
-          if "relativePitch" in info:
-            info["frequency"]= 0.0
+          if "frequency" in info:
+            print("frequency already here")
+          else:
+            print("frequency not found appending frequency")
+            info["frequency"] = 0.0
             my_dicts.append(info)
             newDictConcept = {"notes" : my_dicts}
             save_json()
+          if "noteName" in info:
+            print("note name already here")
           else:
-            print("Nothing else to attach.")
+            print("no note name appending note name")
+            info["noteName"] = "X"
+            my_dicts.append(info)
+            newDictConcept = {"notes" : my_dicts}
+            save_json()
+
+
+            
                 
 
 #for pf in noteDetails["notes"]:
