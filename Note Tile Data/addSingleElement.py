@@ -3,7 +3,7 @@
 
 import json
 
-specific_name = "amazing-grace"
+specific_name = "wellerman"
 vocal_type = "Tenor"
 json_dir_name = '/Users/tchdeveloper1/Documents/Coding Practice/pythonProblems/Note Tile Data/{}/GamePA3-NoteTileData-{}-{}.json'.format(specific_name, specific_name, vocal_type)
 

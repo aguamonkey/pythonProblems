@@ -1,6 +1,13 @@
 {
     "notes": [
         {
+            "relativePitch": 100,
+            "length": 1.0,
+            "lyrics": "",
+            "noteName": "X",
+            "frequency": 0.0
+        },
+        {
             "relativePitch": 3,
             "length": 6.0,
             "lyrics": "If",
